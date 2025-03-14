@@ -22,6 +22,6 @@ ports  input
 اجرای اسکریپت
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_managerc.sh --ipv4)
-chmod +x utunnel_managerc.sh
-./utunnel_managerc.sh
+chmod +x utunnel_manager
+./utunnel_manager
 ```
