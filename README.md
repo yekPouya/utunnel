@@ -110,3 +110,11 @@ sudo systemctl start tunntelmon.service
 ```
 sudo systemctl status tunntelmon.service
 ```
+حمایت مالی از پروژه
+آدرس ولت‌ها
+اگر حامی پیشرفت پروژه هستید با حمایت مالی خود مارا یاری دهید:
+
+ارز	آدرس والت
+Tron	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
+USDT(ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
+از حمایت شما ممنونم 
