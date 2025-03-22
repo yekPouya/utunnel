@@ -66,4 +66,47 @@ chmod +x utunnel_manager
 ./utunnel_manager
 ```
 
-ربات مونیتورینگ نیز برای مونیتور خطاهای تانل در سرور کلاینت در دست آماده سازی است
+اجرای ربات تلگرام مونیتورینگ
+دستور زیر را اجرا کنید
+```
+wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/tunntelmon.sh
+chmod +x tunntelmon.sh
+nano tunntelmon.sh
+```
+در فایل که با نانو باز شده توکن ربات و آی دیعددی خود را باز کنید
+در جلو گزینه sleep که در آخر فایل وجود دارد و پیش فرض عدد 20 وجود دارد زمان مورد نظر خود بر اساس ثانیه را برای بررسی خطا و ارسال به تلگرام وارد نمایید و فایل را ذخیره نمایید
+با دستور زیر فایل سرویس را ایجاد نمایید
+```
+sudo nano /etc/systemd/system/tunntelmon.service
+```
+محتوای زیر را در فایل سرویس قرار دهید:
+
+```
+[Unit]
+Description=Tunntelmon Service
+After=network.target
+
+[Service]
+ExecStart=/root/tunntelmon.sh
+WorkingDirectory=/root
+Restart=always
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
+```
+پس از وارد کردن محتوا، فایل را ذخیره کرده و از ویرایشگر خارج شوید (در nano با فشار دادن Ctrl + X و سپس Y و Enter).
+
+پس از ایجاد فایل سرویس، باید تغییرات را اعمال کرده و سرویس را فعال کنید.
+
+```
+sudo systemctl daemon-reload
+sudo systemctl enable tunntelmon.service
+sudo systemctl start tunntelmon.service
+```
+برای اطمینان از اینکه سرویس به درستی اجرا شده است، می‌توانید وضعیت آن را بررسی کنید:
+
+```
+sudo systemctl status tunntelmon.service
+```
