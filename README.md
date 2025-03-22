@@ -118,8 +118,8 @@ sudo systemctl status tunntelmon.service
 
 ارز	آدرس والت
 
-Tron	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
+Tron: 	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
 
-USDT(ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
+USDT(ERC20): 	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
 
 از حمایت شما ممنونم 
