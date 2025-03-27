@@ -6,6 +6,15 @@
 ترنسیمیشنهای tcp,udp.tcpmux,ws,wss(with ssl),wsmux و wssmux ساپورت میشود.در تانلهای مبتنی بر ssl سرتیفیکیت سلف ساین به صورت اتوماتیک ساخته میشود و برای رمز گذاری دیتای مبادله شده بین دو سرور استفاده میگردد.
 توصیه میگردد برای بهره وری بهتر و جلوگیری از شناسایی سریعتر برای کلاینتهای خود نیز از tlsاستفاده کنید
 
+
+![Screenshot 2025-03-27 101235](https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836)
+![Screenshot 2025-03-27 000948](https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4)
+![Screenshot 2025-03-27 000936](https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14)
+![Screenshot 2025-03-27 000825](https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74)
+
+
+
+
 حالت سرور 
 بر روی سرور ایران اجرا میشود و مقادیر زیر از شما خواسته میشود
 
