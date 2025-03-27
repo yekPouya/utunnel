@@ -21,17 +21,29 @@ UWSmux:
 کاهش 30% تاخیر ارتباطات
 
 مکانیزم بازیابی خودکار هنگام قطعی
-```
 
-جدول مقایسه UTCPmux vs TCPMux استاندارد
-ویژگی	UTCPmux	TCPMux معمولی
-حداکثر اتصالات	2x بیشتر	پایه
-مصرف CPU	40% کمتر	استاندارد
-پشتیبانی Jumbo Frame	✅	❌
-تعادل بار خودکار	✅	❌
-زمان بازیابی	<3 ثانیه	5-10 ثانیه
 
-```
+![Screenshot 2025-03-27 212131](https://github.com/user-attachments/assets/09f19faa-d157-40d6-a7d1-0e4d31607297)
+
+
+✅ UWSmux: بهترین انتخاب برای ارتباطات امن وب‌محور با تأخیر کم
+✅ UTCPmux: راهکار ایده‌آل برای انتقال‌های پرحجم در شبکه‌های پرسرعت
+
+✅ همیشه از mux_version=2 استفاده کنید مگر در موارد خاص.
+✅ مزایای کلیدی نسخه ۲:
+
+کاهش ۳۰-۵۰% نیاز به mux_con
+
+بهبود ۲۰-۴۰% عملکرد کلی
+
+مصرف منابع کمتر
+
+⚠️ تذکر: هنگام تغییر نسخه، حتما channel_size و connection_pool را نیز تنظیم مجدد کنید!
+![Screenshot 2025-03-27 212404](https://github.com/user-attachments/assets/9ae26d5a-b008-4543-8156-1f8afbcad86f)
+![Screenshot 2025-03-27 212555](https://github.com/user-attachments/assets/019d6b11-c264-4a0a-b1d7-b25dc03d6396)
+![Screenshot 2025-03-27 212605](https://github.com/user-attachments/assets/395ff89e-bef0-4cbc-bec5-70e501171761)
+
+
 
 
 توصیه میگردد برای بهره وری بهتر و جلوگیری از شناسایی سریعتر برای کلاینتهای خود نیز از tlsاستفاده کنید
