@@ -2,6 +2,9 @@
 
 ![InitialSample](https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33)
 
+
+توجه:این اسکریپت فقط با اوبونتو ورژن 22 به بالا کار میکند
+
 اسکریپتی برای تانل ریورس یا معکوس بین دو سرور ترافیک tcp را با کمترین تاخیر منتقل میکند.
 
 ترنسیمیشنهای tcp,udp.tcpmux,ws,wss(with ssl),wsmux ،wssmux,utcpmuxو uwsmux ساپورت میشود.
