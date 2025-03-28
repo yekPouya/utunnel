@@ -122,7 +122,7 @@ ports  input
 ```
 اجرای اسکریپت
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager --ipv4)
+wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager
 chmod +x utunnel_manager
 ./utunnel_manager
 ```
