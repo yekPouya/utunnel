@@ -121,6 +121,7 @@ ports  input
 
 ```
 اجرای  برنامه مدیریت تانل
+
 for x86/x64-Amd64 cpus
 ```
 wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_amd64
