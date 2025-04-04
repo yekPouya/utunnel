@@ -67,9 +67,9 @@ This matrix helps you choose the best protocol based on your requirements:
 6. **Optimization**: 🚄 UTCPmux (Speed) / 🛡️ UWSmux (Security)  
 
 ### ⚠️ Technical Notes:  
-- Always use 🔐 secure versions for the web  
+- Always use secure versions for the web  
 - Adjust `buffer` settings according to bandwidth  
-- Use 🕸️ WSMux for modern web applications  
+- Use WSMux for modern web applications  
 - **Mux** versions are ideal for reducing latency and resource consumption  
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33" alt="System Architecture" width="800"> <p><em>Overview of the advanced system architecture</em></p> </div>  
