@@ -1,4 +1,11 @@
-# utunnel
+<div align="center">
+  <h1>✨ پروژه UTunnel Manager ✨</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge" alt="نسخه Go">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="مجوز">
+  </p>
+</div>
+
 
 ![InitialSample](https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33)
 
