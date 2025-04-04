@@ -1,12 +1,14 @@
-<h1 align="center" style="font-size: 2.5em; margin-bottom: 20px;">🚀 UTunnel Manager - Professional Secure Tunneling</h1>
+<h1 align="center" style="font-size: 2.5em; margin-bottom: 15px; color: #2c3e50;">🚀 UTunnel Manager - Professional Secure Tunneling</h1>
+
+<h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
+🔥 Exceptional Performance on Restricted Foreign Servers 🔥
+</h3>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="Go Version">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="License">
-  <img src="https://img.shields.io/badge/Version-2.3.1-red?style=for-the-badge&logo=azurepipelines" alt="Version">
+  <img src="https://img.shields.io/badge/Foreign_Servers-Supported-orange?style=for-the-badge&logo=serverless" alt="Foreign Servers Support">
 </div>
-
-<h2 align="center" style="font-size: 1.8em; color: #4CAF50; margin-top: 30px; margin-bottom: 20px;">Advanced Low-Latency Secure Communication Platform</h2>
 🌐 Comprehensive Introduction  
 
 A professional solution for creating secure and high-speed tunnels between servers, utilizing the latest networking technologies to enable traffic transfer with minimal latency. This system is specifically designed for latency-sensitive environments requiring high security.  
