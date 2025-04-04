@@ -63,12 +63,23 @@ UWSmux (نسخه پیشرفته)
 <div align="center"> <img src="https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33" alt="معماری سیستم" width="800"> <p><em>نمایی از معماری پیشرفته سیستم</em></p> </div>
 
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33" alt="نمونه اولیه" width="700"> </div>
-🛠️ تنظیمات بهینه
+⚙️ تنظیمات بهینه
 
-✅ UWSmux: بهترین انتخاب برای ارتباطات امن وب‌محور با تأخیر کم
+✅ بهترین روش‌ها
 
-✅ UTCPmux: راهکار ایده‌آل برای انتقال‌های پرحجم در شبکه‌های پرسرعت
+برای ارتباطات وب: استفاده از UWSmux با تنظیمات پیش‌فرض
+
+برای انتقال داده حجیم: UTCPmux با mux_version=2
+
+تنظیمات امنیتی: فعال‌سازی TLS و استفاده از گواهی‌های معتبر
+
+⚠️ نکات فنی مهم
+
+همیشه از آخرین نسخه پروتکل استفاده کنید
+
+برای تغییر نسخه، تمام پارامترهای مرتبط را بازتنظیم نمایید
+
+از channel_size مناسب برای بار ترافیکی خود استفاده کنید
 
 ✅ همیشه از mux_version=2 استفاده کنید:
 
@@ -159,19 +170,14 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 زمان بررسی تانل‌ها را بر اساس ثانیه تنظیم کنید
 
 💰 حمایت مالی
-
-
-اگر تمایل به حمایت مالی از توسعه این پروژه دارید، می‌توانید از طریق آدرس‌های کیف پول زیر اقدام نمایید:
+ما از حمایت شما برای توسعه بیشتر این پروژه استقبال می‌کنیم:
 
 <div align="center">
-	آدرس کیف پول
- 
-  
-Tron Network	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
-
-Ethereum	USDT (ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
-
-</div><div align="center" style="margin-top: 20px;"> <p>🙏 از حمایت شما سپاسگزاریم. هر مقدار کمک مالی به توسعه و بهبود مستمر پروژه کمک می‌کند.</p> </div>
+شبکه	نوع ارز	آدرس کیف پول
+<img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> Tron	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
+<img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20"> Ethereum	USDT	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
+<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20"> Bitcoin	BTC	3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5
+</div><div align="center"> <p>🙏 از اعتماد و حمایت شما سپاسگزاریم</p> </div>
 🖼️ تصاویر اضافی
 
 <div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
