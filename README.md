@@ -6,6 +6,8 @@
   </p>
 </div>
 
+🎉 **ویژگی جدید**: پشتیبانی از ARM64!  
+
 
 ![InitialSample](https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33)
 
