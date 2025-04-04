@@ -84,7 +84,7 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 تایمر: تنظیم ریستارت خودکار (1 تا 23 ساعت)
 
 🔧 نمونه‌های تنظیمات پورت
-Copy
+```
 443-600                  # گوش دادن به پورت‌های 443-600 و فوروارد به همان پورت‌ها در مقصد
 443-600:5201             # گوش دادن به 443-600 و فوروارد به پورت 5201
 443-600=1.1.1.1:5201     # گوش دادن به 443-600 و فوروارد به پورت 5201 روی IP 1.1.1.1
@@ -93,29 +93,34 @@ Copy
 127.0.0.2:443=5201       # گوش دادن به 443 روی IP 127.0.0.2 و فوروارد به 5201
 443=1.1.1.1:5201         # گوش دادن به 443 و فوروارد به 5201 روی 1.1.1.1
 127.0.0.2:443=1.1.1.1:5201  # گوش دادن به 443 روی 127.0.0.2 و فوروارد به 5201 روی 1.1.1.1
+```
 💻 راهنمای نصب و اجرا
 برای پردازنده‌های x86/x64 (AMD64):
-bash
-Copy
+
+```
 wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_amd64
 chmod +x utunnel_manager_amd64
 ./utunnel_manager_amd64
+```
 برای پردازنده‌های ARM64:
-bash
-Copy
+
+```
 wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_arm64
 chmod +x utunnel_manager_arm64
 ./utunnel_manager_arm64
+```
 برای پردازنده‌های x86 (32 بیتی):
-bash
-Copy
+
+```
 wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_386
 chmod +x utunnel_manager_386
 ./utunnel_manager_386
+```
 🤖 نصب ربات تلگرام مونیتورینگ
-bash
-Copy
+
+```
 bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+```
 پس از اجرا:
 
 گزینه نصب را انتخاب کنید
@@ -131,10 +136,11 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 
 <div align="center">
 شبکه ارز دیجیتال	نوع ارز	آدرس کیف پول
+  
 Tron Network	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
+
 Ethereum	USDT (ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
-Binance Smart Chain	BNB	bnb1q9f5xvkz3j0h6q7tq5v4qjq5v6jq5v6jq5v6jq
-Bitcoin	BTC	3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5
+
 </div><div align="center" style="margin-top: 20px;"> <p>🙏 از حمایت شما سپاسگزاریم. هر مقدار کمک مالی به توسعه و بهبود مستمر پروژه کمک می‌کند.</p> </div>
 🖼️ تصاویر اضافی
 <div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
