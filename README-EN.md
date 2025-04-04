@@ -31,14 +31,24 @@ A professional solution for creating secure and high-speed tunnels between serve
 | **🚄 UTCPmux**  | ⚡ High-speed optimization<br>📡 Jumbo Frames<br>🌐 40% CPU reduction | 🖥️ Data centers<br>☁️ Cloud services | `frame_size=9000`<br>`concurrency=16` |  
 | **🛡️ UWSmux**   | 🗜️ Smart compression<br>⏱️ 30% latency reduction<br>🔄 Auto-recovery | 💼 Enterprise communications<br>🌍 International services | `compress_level=6`<br>`recovery_time=5s` |  
 
-## 📊 Protocol Selection Matrix  
+## 📊 Protocol Comparison
 
-| Criterion    | TCP  | UDP  | WS   | WSS  | UTCPmux | UWSmux |  
-|--------------|------|------|------|------|---------|--------|  
-| **Speed**    | 🟢   | 🔵   | 🟢   | 🟡   | 🔵      | 🟢     |  
-| **Security** | 🟡   | 🔴   | 🟡   | 🟢   | 🟢      | 🟢     |  
-| **Stability**| 🟢   | 🔴   | 🟢   | 🟢   | 🔵      | 🟢     |  
-| **Latency**  | 🟡   | 🟢   | 🟡   | 🟡   | 🟢      | 🟢     |  
+<div align="center">
+
+| Criteria     | TCP  | UDP  | WS   | WSS  | WSMux | WSSMux | UTCPmux | UWSmux |
+|--------------|------|------|------|------|-------|--------|---------|--------|
+| **Speed**    | 🟢   | 🔵   | 🟢   | 🟡   | 🟢    | 🟡     | 🔵      | 🟢     |
+| **Security** | 🟡   | 🔴   | 🟡   | 🟢   | 🟡    | 🟢     | 🟢      | 🟢     |
+| **Stability**| 🟢   | 🔴   | 🟢   | 🟢   | 🟢    | 🟢     | 🔵      | 🟢     |
+| **Latency**  | 🟡   | 🟢   | 🟡   | 🟡   | 🟡    | 🟡     | 🟢      | 🟢     |
+
+</div>
+
+### Legend:
+- 🟢 Excellent
+- 🔵 Very Good 
+- 🟡 Moderate
+- 🔴 Basic
 
 ### ✨ Protocol Selection Guide:  
 1. **Reliability**: 🛰️ TCP / 🌉 TCPMux  
