@@ -95,7 +95,7 @@
 
 🖼️ گالری تصاویر 
 
-<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/09f19faa-d157-40d6-a7d1-0e4d31607297" width="400" alt="نمونه 1"></td> <td><img src="https://github.com/user-attachments/assets/9ae26d5a-b008-4543-8156-1f8afbcad86f" width="400" alt="نمونه 2"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/019d6d11-c264-4a0a-b1d7-b25dc03d6396" width="400" alt="نمونه 3"></td> <td><img src="https://github.com/user-attachments/assets/395ff89e-bef0-4cbc-bec5-70e501171761" width="400" alt="نمونه 4"></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/09f19faa-d157-40d6-a7d1-0e4d31607297" width="400" alt="نمونه 1"></td> <td><img src="https://github.com/user-attachments/assets/9ae26d5a-b008-4543-8156-1f8afbcad86f" width="400" alt="نمونه 2"></td> <td><img src="https://github.com/user-attachments/assets/395ff89e-bef0-4cbc-bec5-70e501171761" width="400" alt="نمونه 4"></td> </tr> </table> </div>
 📝 راهنمای جامع حالت‌های عملیاتی
 
 🔵 حالت سرور (اجرا روی سرور ایران)
