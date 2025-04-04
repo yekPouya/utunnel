@@ -1,18 +1,13 @@
 <h1 align="center" style="font-size: 2.5em; margin-bottom: 15px; color: #2c3e50;">🚀 UTunnel Manager - راهکار حرفه‌ای تونلینگ امن</h1>
 
 <h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
-🔥 قابلیت اجرای بی‌نظیر حتی در محیط‌های فیلتر شده و محدود 🔥
+🔥 عملکرد بی‌نظیر حتی روی سرورهای خارج از کشور با محدودیت شدید 🔥
 </h3>
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="Go Version">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="License">
-  <img src="https://img.shields.io/badge/Censorship-Bypass-orange?style=for-the-badge&logo=anonymous" alt="Censorship">
-</div>
-<div align="left">
-  <a href="README-EN.md">
-    <img src="https://img.shields.io/badge/📖-English_Documentation-blue" alt="English Docs">
-  </a>
+  <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="نسخه Go">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="مجوز">
+  <img src="https://img.shields.io/badge/سرورهای_خارج-قابل_اجرا-orange?style=for-the-badge&logo=powerpages" alt="پشتیبانی از سرورهای خارج">
 </div>
  🌐 معرفی جامع
  
