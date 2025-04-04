@@ -120,13 +120,25 @@ ports  input
 127.0.0.2:443=1.1.1.1:5201  N⚠️ # به پورت 443 از آی پی 127.0.0.1 گوش میکند و به پورت 5201 آی پی 1.1.1.1 ارسال میکند
 
 ```
-اجرای اسکریپت
+اجرای  برنامه مدیریت تانل
+for x86/x64-Amd64 cpus
 ```
-wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager
-chmod +x utunnel_manager
-./utunnel_manager
+wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_amd64
+chmod +x utunnel_manager_amd64
+./utunnel_manager_amd64
 ```
-
+for Arm64 cpus
+```
+wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_arm64
+chmod +x utunnel_manager_arm64
+./utunnel_manager_arm64
+```
+for x86 32bit cpus
+```
+wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_386
+chmod +x utunnel_manager_386
+./utunnel_manager_386
+```
 اجرای ربات تلگرام مونیتورینگ
 
 دستور زیر را اجرا کنید
