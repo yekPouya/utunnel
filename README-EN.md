@@ -37,18 +37,20 @@ This matrix helps you choose the best protocol based on your requirements:
 
 <div align="center">
 
-| Criteria     | Technical Description            | TCP  | UDP  | WS   | WSS  | WSMux | WSSMux | UTCPmux | UWSmux |
-|--------------|----------------------------------|------|------|------|------|-------|--------|---------|--------|
-| **Speed**    | Data transfer rate (MB/s)        | 🟢   | 🔵   | 🟢   | 🟡   | 🟢    | 🟡     | 🔵      | 🟢     |
-| **Security** | Encryption level                 | 🟡   | 🔴   | 🟡   | 🟢   | 🟡    | 🟢     | 🟢      | 🟢     |
-| **Stability**| Connection reliability           | 🟢   | 🔴   | 🟢   | 🟢   | 🟢    | 🟢     | 🔵      | 🟢     |
-| **Latency**  | Response time (ms)               | 🟡   | 🟢   | 🟡   | 🟡   | 🟡    | 🟡     | 🟢      | 🟢     |
+| Criteria     | Technical Description            | TCP  | TCPMux | UDP  | WS   | WSS  | WSMux | WSSMux | UTCPmux | UWSmux |
+|--------------|----------------------------------|------|--------|------|------|------|-------|--------|---------|--------|
+| **Speed**    | Data transfer rate (MB/s)        | 🟢   | 🔵     | 🔵   | 🟢   | 🟡   | 🟢    | 🟡     | 🔵      | 🟢     |
+| **Security** | Encryption level                 | 🟡   | 🟡     | 🔴   | 🟡   | 🟢   | 🟡    | 🟢     | 🟢      | 🟢     |
+| **Stability**| Connection reliability           | 🟢   | 🟢     | 🔴   | 🟢   | 🟢   | 🟢    | 🟢     | 🔵      | 🟢     |
+| **Latency**  | Response time (ms)               | 🟡   | 🟡     | 🟢   | 🟡   | 🟡   | 🟡    | 🟡     | 🟢      | 🟢     |
+| **Optimization**| System resource usage          | 🟡   | 🟢     | 🟢   | 🟡   | 🟡   | 🟢    | 🟢     | 🟢      | 🟢     |
 
 </div>
 
 ### 🧩 Selection Guide:
 - **Online Gaming**: UDP (Low latency)
 - **Banking**: WSSMux (High security)
+- **Large File Transfer**: TCPMux (Resource optimized)
 - **Video Streaming**: UTCPmux (High bandwidth)
 - **Enterprise Chat**: UWSmux (Balanced speed/security)
 
