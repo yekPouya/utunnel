@@ -170,10 +170,12 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 زمان بررسی تانل‌ها را بر اساس ثانیه تنظیم کنید
 
 💰 حمایت مالی
+
 ما از حمایت شما برای توسعه بیشتر این پروژه استقبال می‌کنیم:
 
 <div align="center">
 شبکه	نوع ارز	آدرس کیف پول
+ 
 <img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> Tron	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
  
 <img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20"> Ethereum	USDT	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
