@@ -125,11 +125,13 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 زمان بررسی تانل‌ها را بر اساس ثانیه تنظیم کنید
 
 💰 حمایت مالی
-اگر از این پروژه خوشتان آمده و مایل به حمایت هستید:
 
-ارز	آدرس کیف پول
-Tron	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
-USDT (ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
-<div align="center"> <p>🙏 از حمایت شما برای توسعه و بهبود این پروژه سپاسگزاریم!</p> </div>
+اگر تمایل به حمایت مالی از توسعه این پروژه دارید، می‌توانید از طریق آدرس‌های کیف پول زیر اقدام نمایید:
+
+<div align="center">
+شبکه ارز دیجیتال	نوع ارز	آدرس کیف پول
+Tron Network	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
+Ethereum	USDT (ERC20)	0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76
+</div><div align="center" style="margin-top: 20px;"> <p>🙏 از حمایت شما سپاسگزاریم. هر مقدار کمک مالی به توسعه و بهبود مستمر پروژه کمک می‌کند.</p> </div>
 🖼️ تصاویر اضافی
 <div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
