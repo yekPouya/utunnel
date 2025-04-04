@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge" alt="نسخه Go"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="مجوز"> <img src="https://img.shields.io/badge/Supports-ARM64%20%26%20x86-brightgreen?style=for-the-badge" alt="پشتیبانی معماری"> </div>
-🚀 معرفی کامل
+ معرفی کامل
 اسکریپتی پیشرفته برای تانلینگ معکوس بین دو سرور که ترافیک TCP/UDP را با کمترین تاخیر منتقل می‌کند. این پروژه از پروتکل‌های مختلفی پشتیبانی می‌نماید:
 
 🔌 پروتکل‌های پشتیبانی شده
