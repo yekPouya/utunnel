@@ -31,24 +31,32 @@ A professional solution for creating secure and high-speed tunnels between serve
 | **🚄 UTCPmux**  | ⚡ High-speed optimization<br>📡 Jumbo Frames<br>🌐 40% CPU reduction | 🖥️ Data centers<br>☁️ Cloud services | `frame_size=9000`<br>`concurrency=16` |  
 | **🛡️ UWSmux**   | 🗜️ Smart compression<br>⏱️ 30% latency reduction<br>🔄 Auto-recovery | 💼 Enterprise communications<br>🌍 International services | `compress_level=6`<br>`recovery_time=5s` |  
 
-## 📊 Protocol Comparison
+## 📊 Protocol Selection Matrix - Comprehensive Guide
+
+This matrix helps you choose the best protocol based on your requirements:
 
 <div align="center">
 
-| Criteria     | TCP  | UDP  | WS   | WSS  | WSMux | WSSMux | UTCPmux | UWSmux |
-|--------------|------|------|------|------|-------|--------|---------|--------|
-| **Speed**    | 🟢   | 🔵   | 🟢   | 🟡   | 🟢    | 🟡     | 🔵      | 🟢     |
-| **Security** | 🟡   | 🔴   | 🟡   | 🟢   | 🟡    | 🟢     | 🟢      | 🟢     |
-| **Stability**| 🟢   | 🔴   | 🟢   | 🟢   | 🟢    | 🟢     | 🔵      | 🟢     |
-| **Latency**  | 🟡   | 🟢   | 🟡   | 🟡   | 🟡    | 🟡     | 🟢      | 🟢     |
+| Criteria     | Technical Description            | TCP  | UDP  | WS   | WSS  | WSMux | WSSMux | UTCPmux | UWSmux |
+|--------------|----------------------------------|------|------|------|------|-------|--------|---------|--------|
+| **Speed**    | Data transfer rate (MB/s)        | 🟢   | 🔵   | 🟢   | 🟡   | 🟢    | 🟡     | 🔵      | 🟢     |
+| **Security** | Encryption level                 | 🟡   | 🔴   | 🟡   | 🟢   | 🟡    | 🟢     | 🟢      | 🟢     |
+| **Stability**| Connection reliability           | 🟢   | 🔴   | 🟢   | 🟢   | 🟢    | 🟢     | 🔵      | 🟢     |
+| **Latency**  | Response time (ms)               | 🟡   | 🟢   | 🟡   | 🟡   | 🟡    | 🟡     | 🟢      | 🟢     |
 
 </div>
 
-### Legend:
-- 🟢 Excellent
-- 🔵 Very Good 
-- 🟡 Moderate
-- 🔴 Basic
+### 🧩 Selection Guide:
+- **Online Gaming**: UDP (Low latency)
+- **Banking**: WSSMux (High security)
+- **Video Streaming**: UTCPmux (High bandwidth)
+- **Enterprise Chat**: UWSmux (Balanced speed/security)
+
+### 🏆 Key to Ratings:
+- 🟢 Excellent (90-100%)
+- 🔵 Very Good (80-90%)
+- 🟡 Moderate (60-80%)
+- 🔴 Basic (<60%)
 
 ### ✨ Protocol Selection Guide:  
 1. **Reliability**: 🛰️ TCP / 🌉 TCPMux  
