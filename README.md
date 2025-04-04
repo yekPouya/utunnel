@@ -154,7 +154,8 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 اگر تمایل به حمایت مالی از توسعه این پروژه دارید، می‌توانید از طریق آدرس‌های کیف پول زیر اقدام نمایید:
 
 <div align="center">
-شبکه ارز دیجیتال	نوع ارز	آدرس کیف پول
+	آدرس کیف پول
+ 
   
 Tron Network	TRX	TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ
 
