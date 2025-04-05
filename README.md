@@ -7,7 +7,14 @@
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="نسخه Go">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="مجوز">
-  <img src="https://img.shields.io/badge/سرورهای_خارج-قابل_اجرا-orange?style=for-the-badge&logo=powerpages" alt="پشتیبانی از سرورهای خارج">
+  <img src="https://img.shields.io/badge/Foreign_Servers-Supported-orange?style=for-the-badge&logo=serverless" alt="پشتیبانی از سرورهای خارج">
+  
+  <!-- دکمه‌های معماری‌های پشتیبانی شده -->
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/x86_64-Supported-success?style=flat-square&logo=amd" alt="x86_64">
+    <img src="https://img.shields.io/badge/ARM64-Supported-success?style=flat-square&logo=arm" alt="ARM64">
+    <img src="https://img.shields.io/badge/RISC_V-Experimental-yellow?style=flat-square&logo=riscv" alt="RISC-V">
+  </div>
 </div>
  🌐 معرفی جامع
  
