@@ -8,7 +8,15 @@
   <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="Go Version">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="License">
   <img src="https://img.shields.io/badge/Foreign_Servers-Supported-orange?style=for-the-badge&logo=serverless" alt="Foreign Servers Support">
+  
+  <!-- Supported Architectures Buttons -->
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/x86_64-Supported-success?style=flat-square&logo=amd" alt="x86_64">
+    <img src="https://img.shields.io/badge/ARM64-Supported-success?style=flat-square&logo=arm" alt="ARM64">
+    <img src="https://img.shields.io/badge/RISC_V-Experimental-yellow?style=flat-square&logo=riscv" alt="RISC-V">
+  </div>
 </div>
+
 🌐 Comprehensive Introduction  
 
 A professional solution for creating secure and high-speed tunnels between servers, utilizing the latest networking technologies to enable traffic transfer with minimal latency. This system is specifically designed for latency-sensitive environments requiring high security.  
