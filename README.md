@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/x86_64-Supported-success?style=flat-square&logo=amd" alt="x86_64">
     <img src="https://img.shields.io/badge/ARM64-Supported-success?style=flat-square&logo=arm" alt="ARM64">
     <img src="https://img.shields.io/badge/RISC_V-Experimental-yellow?style=flat-square&logo=riscv" alt="RISC-V">
-    ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://example.com/api/downloads&label=Downloads&query=$.count&color=blue)
   </div>
 </div>
 
