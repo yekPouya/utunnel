@@ -175,27 +175,12 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 ```
 💻 راهنمای نصب و اجرا
 
-برای پردازنده‌های x86/x64 (AMD64):
+برای نصب این دستور را اجرا کنید
 
 ```
-wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_amd64
-chmod +x utunnel_manager_amd64
-./utunnel_manager_amd64
+bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
-برای پردازنده‌های ARM64:
 
-```
-wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_arm64
-chmod +x utunnel_manager_arm64
-./utunnel_manager_arm64
-```
-برای پردازنده‌های x86 (32 بیتی):
-
-```
-wget https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/utunnel_manager_386
-chmod +x utunnel_manager_386
-./utunnel_manager_386
-```
 🤖 نصب ربات تلگرام مونیتورینگ
 
 ```
