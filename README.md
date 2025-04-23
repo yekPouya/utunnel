@@ -18,8 +18,11 @@
   </div>
 </div>
 
-[![English Version](https://img.shields.io/badge/README_English-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](./README-EN.md)
-
+<a href="./README-EN.md">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
+    🌐 English Documentation
+  </button>
+</a>
 برای استفاده از تانل نیاز به ثبت آی پی دارید.
 
 برای ثبت آی پی به ربات زیر بروید
