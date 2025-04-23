@@ -3,7 +3,7 @@
 <h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
 🔥 عملکرد بی‌نظیر حتی روی سرورهای خارج از کشور با محدودیت شدید 🔥
 </h3>
-[![English Version](https://img.shields.io/badge/README_English-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](./README-EN.md)
+
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="نسخه Go">
@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/RISC_V-Experimental-yellow?style=flat-square&logo=riscv" alt="RISC-V">
   </div>
 </div>
+
+[![English Version](https://img.shields.io/badge/README_English-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](./README-EN.md)
 
 برای استفاده از تانل نیاز به ثبت آی پی دارید.
 
