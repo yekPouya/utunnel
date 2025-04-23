@@ -17,7 +17,6 @@
   </div>
 </div>
 
-[![English Version](https://img.shields.io/badge/README_English-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](./README-EN.md)
 
 No need to register foreign server IPs - Only your Iranian server IP needs to be registered, and foreign servers can connect to this Iranian server.
 
