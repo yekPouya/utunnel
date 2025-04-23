@@ -1,6 +1,3 @@
-Here's the English translation while preserving all formatting (HTML, Markdown, badges, emojis, etc.):
-
-```html
 <h1 align="center" style="font-size: 2.5em; margin-bottom: 15px; color: #2c3e50;">🚀 UTunnel Manager - Professional Secure Tunneling Solution</h1>
 
 <h3 align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #ff4d4d, #f9cb28); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 25px; padding: 10px; border-radius: 5px; border-left: 4px solid #e74c3c; border-right: 4px solid #e74c3c;">
@@ -263,15 +260,16 @@ Delete: Remove one/all tunnels
 Timer: Set auto-restart (1-23 hours)
 
 🔧 Port Configuration Examples
+
 ```
-443-600                  # Listen on ports 443-600 and forward to same ports on destination
-443-600:5201             # Listen on 443-600 and forward to port 5201
-443-600=1.1.1.1:5201     # Listen on 443-600 and forward to port 5201 at IP 1.1.1.1
-443                      # Listen on port 443 and forward to destination port 443
-4000=5000                # Listen on 4000 and forward to 5000
-127.0.0.2:443=5201       # Listen on 443 at IP 127.0.0.2 and forward to 5201
-443=1.1.1.1:5201         # Listen on 443 and forward to 5201 at 1.1.1.1
-127.0.0.2:443=1.1.1.1:5201  # Listen on 443 at 127.0.0.2 and forward to 5201 at 1.1.1.1
+443-600 # Listen on ports 443-600 and forward to same ports on destination
+443-600:5201 # Listen on 443-600 and forward to port 5201
+443-600=1.1.1.1:5201 # Listen on 443-600 and forward to port 5201 at IP 1.1.1.1
+443 # Listen on port 443 and forward to destination port 443
+4000=5000 # Listen on 4000 and forward to 5000
+127.0.0.2:443=5201 # Listen on 443 at IP 127.0.0.2 and forward to 5201
+443=1.1.1.1:5201 # Listen on 443 and forward to 5201 at 1.1.1.1
+127.0.0.2:443=1.1.1.1:5201 # Listen on 443 at 127.0.0.2 and forward to 5201 at 1.1.1.1
 ```
 
 💻 Installation Guide
@@ -283,10 +281,10 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 ```
 
 🤖 Telegram Monitoring Bot Installation
-
 ```
 bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
+
 After execution:
 
 Select installation option
@@ -314,4 +312,3 @@ We appreciate your support for continuous project development:
 </div>
 
 <div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
-```
