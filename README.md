@@ -4,6 +4,12 @@
 🔥 عملکرد بی‌نظیر حتی روی سرورهای خارج از کشور با محدودیت شدید 🔥
 </h3>
 
+<div align="center">
+  <a href="https://github.com/aliamg1356/utunnel">
+    <img src="https://img.shields.io/badge/⭐_Star_UTunnel-181717?style=for-the-badge&logo=github" alt="Star UTunnel">
+  </a>
+</div>
+
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Go-1.21+-blue?style=for-the-badge&logo=go" alt="نسخه Go">
